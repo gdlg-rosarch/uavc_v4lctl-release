@@ -1,0 +1,27 @@
+ros-jade-uavc-v4lctl (1.0.3-0utopic) utopic; urgency=high
+
+  * minor fixes
+  * Contributors: uavc
+
+ -- Patrick Feuser <pat@das-netz.de>  Sat, 16 Apr 2016 22:00:00 -0000
+
+ros-jade-uavc-v4lctl (1.0.2-0utopic) utopic; urgency=high
+
+  * minor fixes
+  * Contributors: uavc
+
+ -- Patrick Feuser <pat@das-netz.de>  Wed, 13 Apr 2016 22:00:00 -0000
+
+ros-jade-uavc-v4lctl (1.0.1-0utopic) utopic; urgency=high
+
+  * minor fixes
+  * Merge https://github.com/meuchel/uavc_v4lctl
+  * adding files
+  * Update README.md
+  * Create README.md
+  * Initial commit
+  * Contributors: Pat, uavc
+
+ -- Patrick Feuser <pat@das-netz.de>  Wed, 13 Apr 2016 22:00:00 -0000
+
+
