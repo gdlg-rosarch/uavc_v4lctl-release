@@ -1,3 +1,26 @@
+## uavc_v4lctl (indigo) - 1.0.2-3
+
+The packages in the `uavc_v4lctl` repository were released into the `indigo` distro by running `/usr/bin/bloom-release uavc_v4lctl --track indigo --rosdistro indigo` on `Sat, 14 May 2016 13:10:07 -0000`
+
+The `uavc_v4lctl` package was released.
+
+Version of package(s) in repository `uavc_v4lctl`:
+
+- upstream repository: https://github.com/meuchel/uavc_v4lctl.git
+- release repository: https://github.com/meuchel/uavc_v4lctl-release.git
+- rosdistro version: `1.0.2-1`
+- old version: `1.0.2-2`
+- new version: `1.0.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## uavc_v4lctl (indigo) - 1.0.2-2
 
 The packages in the `uavc_v4lctl` repository were released into the `indigo` distro by running `/usr/bin/bloom-release uavc_v4lctl --track indigo --rosdistro indigo` on `Sat, 14 May 2016 11:32:30 -0000`
